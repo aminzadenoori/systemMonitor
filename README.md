@@ -1,4 +1,4 @@
-```markdown
+
 # GPU Monitoring Package
 
 R package for monitoring NVIDIA GPU, CPU, and RAM usage using NVML and `Rcollectl`.
@@ -15,6 +15,7 @@ R package for monitoring NVIDIA GPU, CPU, and RAM usage using NVML and `Rcollect
 git clone <repository-url>
 R -e "devtools::install()"
 ```
+
 
 ## Usage
 
@@ -42,4 +43,3 @@ result <- stop_and_plot(monitor)
 
 ## License
 MIT License
-```
