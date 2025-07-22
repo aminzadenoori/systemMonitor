@@ -1,0 +1,4 @@
+export(get_gpu_utilization, start_monitor, stop_and_plot)
+importFrom(Rcpp, evalCpp)
+import(Rcollectl, ggplot2, dplyr)
+useDynLib(systemMonitor, .registration = TRUE)

@@ -1,0 +1,2 @@
+PKG_CFLAGS = -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/include"
+PKG_LIBS = -L"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/lib/x64" -lnvidia-ml

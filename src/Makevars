@@ -1,0 +1,2 @@
+PKG_CFLAGS = -I/path/to/nvml/include
+PKG_LIBS = -L/path/to/nvml/lib -lnvidia-ml
