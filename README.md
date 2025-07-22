@@ -1,5 +1,3 @@
-markdown
-
 # GPU Monitoring Package
 
 R package for monitoring NVIDIA GPU, CPU, and RAM usage using NVML and `Rcollectl`.
